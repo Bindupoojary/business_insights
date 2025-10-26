@@ -57,8 +57,8 @@
     <li>Net error</li>
     <li>Risk factor</li>
   </ul>
-
-    <h2 style="color:#2874A6;">Power BI Services</h2>
+<h2 style="color:#2874A6;">  Power BI Services</h2>
+  
   <ul>
     <li>Publishing reports to Power BI Service</li>
     <li>Personal gateway setup for auto-refresh</li>
@@ -125,7 +125,7 @@
 </div>
 
 </div>
-<h3>Home View</h3>
+<h2>Home View</h2>
 <div class="home-view">
     <p>In <strong>Home view</strong>, all the view buttons will be available. User will land on a specific view page by clicking the button.</p>
     <ul class="views-list">
@@ -137,3 +137,34 @@
         <li>Support</li>
     </ul>
 </div>
+
+
+  <h3 style="color:#2874A6;">Home view</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/home_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+    <h3 style="color:#2874A6;">Finance View</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/finance_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+    <h3 style="color:#2874A6;">Marketing View</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/marketing_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+      <img src="https://github.com/Bindupoojary/business_insights/blob/main/marketing_tooltip.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+    </p>
+    <h3 style="color:#2874A6;">Supply chain View</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/supplychain_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+    </p>
+    <h3 style="color:#2874A6;">Executive  View</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/executive_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
+    </p>
+    <h3 style="color:#2874A6;">Support Page</h3>
+  <p>
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/support_page.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+  </p>
