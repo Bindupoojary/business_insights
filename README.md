@@ -125,16 +125,15 @@
 </div>
 
 </div>
+<h3>Home View</h3>
 <div class="home-view">
     <p>In <strong>Home view</strong>, all the view buttons will be available. User will land on a specific view page by clicking the button.</p>
     <ul class="views-list">
         <li>Info</li>
         <li>Finance View</li>
-        <li>Sales View</li>
         <li>Marketing View</li>
         <li>Supply Chain View</li>
         <li>Executive View</li>
-        <li>Products</li>
         <li>Support</li>
     </ul>
 </div>
