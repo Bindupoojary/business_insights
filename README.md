@@ -58,6 +58,14 @@
     <li>Risk factor</li>
   </ul>
 
+    <h2 style="color:#2874A6;">Power BI Services</h2>
+  <ul>
+    <li>Publishing reports to Power BI Service</li>
+    <li>Personal gateway setup for auto-refresh</li>
+    <li>Power BI App creation</li>
+    <li>Collaboration, workspace management, and access permissions</li>
+  </ul>
+
   <h2 style="color:#2874A6;">Company Background</h2>
   <p>
     AltiQ Hardware is a company that has grown rapidly in recent years and expanded its business globally. 
@@ -115,6 +123,8 @@
   </p>
 
 </div>
+
+</div>
 <h1>Home View</h1>
     <p>In <strong>Home view</strong>, all the view buttons will be available. Users will land on a specific view page by clicking the button.</p>
 
@@ -129,17 +139,3 @@
         <li>Products</li>
         <li>Support</li>
     </ul>
-
-
-    
-
-
-  <h2 style="color:#2874A6;">Power BI Services</h2>
-  <ul>
-    <li>Publishing reports to Power BI Service</li>
-    <li>Personal gateway setup for auto-refresh</li>
-    <li>Power BI App creation</li>
-    <li>Collaboration, workspace management, and access permissions</li>
-  </ul>
-
-</div>
