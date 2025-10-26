@@ -8,6 +8,8 @@
     This project is aimed to provide answers to stakeholder questions across various aspects like <strong>finance, sales, marketing,</strong> and <strong>supply chain</strong>.
   </p>
 
+  <p>you can find the full report file here : <a href = "https://github.com/Bindupoojary/business_insights/blob/main/business_insights.pbit">Report</a></p>
+
   <h2 style="color:#2874A6;">Tech Stacks & Tools</h2>
   <ul>
     <li>SQL</li>
@@ -32,7 +34,7 @@
     <li>Conditional formatting (icons or background color)</li>
     <li>Data validation</li>
     <li>Tooltips </li>
-    <li>Support pannelusing bookmarks </li>
+    <li>Support pannel using bookmarks </li>
   </ul>
 
   <div style="font-family: Arial, sans-serif; line-height: 1.6;">
@@ -168,3 +170,6 @@
   <p>
     <img src="https://github.com/Bindupoojary/business_insights/blob/main/support_page.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
   </p>
+
+ <h2> Project Outcome</h2>
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
