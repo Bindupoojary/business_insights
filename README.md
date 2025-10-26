@@ -26,13 +26,13 @@
     <li>Data modeling</li>
     <li>Bookmarks for switching visuals</li>
     <li>Page navigation with buttons</li>
-    <li>DIVIDE function to prevent zero division</li>
     <li>Date table using M language</li>
     <li>Dynamic titles based on filters</li>
     <li>KPI indicators</li>
     <li>Conditional formatting (icons or background color)</li>
     <li>Data validation</li>
-    <li>Tooltips using bookmarks for support panel</li>
+    <li>Tooltips </li>
+    <li>Support pannelusing bookmarks </li>
   </ul>
 
   <div style="font-family: Arial, sans-serif; line-height: 1.6;">
@@ -149,14 +149,14 @@
   </p>
     <h3 style="color:#2874A6;">Marketing View</h3>
   <p>
-    <img src="https://github.com/Bindupoojary/business_insights/blob/main/marketing_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/markrting_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
   </p>
       <img src="https://github.com/Bindupoojary/business_insights/blob/main/marketing_tooltip.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
   </p>
     </p>
     <h3 style="color:#2874A6;">Supply chain View</h3>
   <p>
-    <img src="https://github.com/Bindupoojary/business_insights/blob/main/supplychain_view.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
+    <img src="https://github.com/Bindupoojary/business_insights/blob/main/supply_chain.png" alt="home" style="max-width:100%; height:auto; border:1px solid #ccc; border-radius:5px;">
   </p>
     </p>
     <h3 style="color:#2874A6;">Executive  View</h3>
