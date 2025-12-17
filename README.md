@@ -8,7 +8,7 @@
     This project is aimed to provide answers to stakeholder questions across various aspects like <strong>finance, sales, marketing,</strong> and <strong>supply chain</strong>.
   </p>
 
-  <p>you can find the full report file here : <a href = "https://github.com/Bindupoojary/business_insights/blob/main/business_insights.pbit">Report</a></p>
+  <p>you can find the full report file here : <a href = "https://app.powerbi.com/view?r=eyJrIjoiNjEyY2M0MGMtYTA3NS00ZTgyLThmYzktZjAyMDNjNGUzMDA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Report</a></p>
 
   <h2 style="color:#2874A6;">Tech Stacks & Tools</h2>
   <ul>
